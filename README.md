@@ -1,1 +1,1 @@
-### NagramX-Ads-Rules
+### NagramX-Ad-Rules
